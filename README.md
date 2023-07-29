@@ -20,5 +20,8 @@ Siempre estoy preparado para enfrentar nuevos retos y seguir aprendiendo en este
 
 ### 📫 ¡Contáctame!
 |1 📧 Correo electrónico: fabian.almanza741@gmail.com                                                                                                         |
+----------------------------------------------------------------
 |2 🐙 GitHub: https://github.com/fabianalmanza                                                                                                                |
+----------------------------------------------------------------
 |3 🌐 Portfolio: https://portafoliofabianalmanza.netlify.app/                                                                                                 |
+----------------------------------------------------------------
