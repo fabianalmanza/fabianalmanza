@@ -5,7 +5,7 @@
 
 🎓 Recientemente, completé una beca en desarrollo Frontend con Alura en asociación con Oracle, adquiriendo conocimientos sólidos en las siguientes tecnologías:
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,vscode,mongodb,netlify,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,vscode,mongodb,netlify,git,markdown)](https://skillicons.dev)
 
 
 Siempre estoy preparado para enfrentar nuevos retos y seguir aprendiendo en este apasionante campo.
