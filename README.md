@@ -19,9 +19,9 @@ Siempre estoy preparado para enfrentar nuevos retos y seguir aprendiendo en este
 💼 En mi trayectoria profesional, he participado en proyectos desafiantes que me han permitido aplicar mis habilidades y contribuir al éxito del equipo.
 
 ### 📫 ¡Contáctame!
-|1 📧 Correo electrónico: fabian.almanza741@gmail.com                                                                                                         |
+##### 📧 Correo electrónico: fabian.almanza741@gmail.com                                                                                                         |
 ----------------------------------------------------------------
-|2 🐙 GitHub: https://github.com/fabianalmanza                                                                                                                |
+##### 🐙 GitHub: https://github.com/fabianalmanza                                                                                                                |
 ----------------------------------------------------------------
-|3 🌐 Portfolio: https://portafoliofabianalmanza.netlify.app/                                                                                                 |
+##### 🌐 Portfolio: https://portafoliofabianalmanza.netlify.app/                                                                                                 |
 ----------------------------------------------------------------
