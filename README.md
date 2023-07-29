@@ -1,16 +1,24 @@
-### Hi I'm Front-end Developer 👋
+## Desarrollador Front-end
+💻 Desarrollador Front-End apasionado por el mundo del desarrollo de software y la creación de aplicaciones web. Siempre en busca de nuevos conocimientos y con capacidad para enfrentar desafíos.
 
-<!--
-**fabianalmanza/fabianalmanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Durante mis estudios en Ingeniería de Petróleos, descubrí una pasión por el desarrollo de software y la creación de aplicaciones web. Esto me llevó a convertirme en una persona autodidacta y de rápido aprendizaje en el campo del desarrollo Frontend.
 
-Here are some ideas to get you started:
+🎓 Recientemente, completé una beca en desarrollo Frontend con Alura en asociación con Oracle, adquiriendo conocimientos sólidos en las siguientes tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ JavaScript
+⚛️ React
+🌐 HTML5
+🎨 CSS
+🎨 Tailwind CSS
+🍃 MongoDB
+🗂️ Git
+🌐 Netlify
+
+Siempre estoy preparado para enfrentar nuevos retos y seguir aprendiendo en este apasionante campo.
+
+💼 En mi trayectoria profesional, he participado en proyectos desafiantes que me han permitido aplicar mis habilidades y contribuir al éxito del equipo.
+
+# 📫 ¡Contáctame!
+📧 Correo electrónico: fabian.almanza741@gmail.com
+🐙 GitHub: https://github.com/fabianalmanza
+🌐 Portfolio: https://portafoliofabianalmanza.netlify.app/
