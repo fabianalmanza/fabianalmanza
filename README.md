@@ -7,7 +7,7 @@
 
 ⚙️ JavaScript
 ⚛️ React
-🌐 HTML5
+⚡️ HTML5
 🎨 CSS
 🎨 Tailwind CSS
 🍃 MongoDB
