@@ -8,8 +8,7 @@
 ⚙️ JavaScript
 ⚛️ React
 ⚡️ HTML5
-![image](https://github.com/fabianalmanza/fabianalmanza/assets/43447878/7180b5d4-ccd3-43a2-9cf6-1d724aefee65)
- CSS
+🎨 CSS
 🎨 Tailwind CSS
 🍃 MongoDB
 🗂️ Git
