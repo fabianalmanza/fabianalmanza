@@ -13,7 +13,7 @@
 🍃 MongoDB
 🗂️ Git
 🌐 Netlify
-
+babel bash bootstrap canvasjs css3 docker express figma git graphql html5 illustrator jasmine javascript jest mocha mongodb mssql mysql nextjs nodejs photoshop postgresql postman react reactnative redux sass sqlite typescript webpack
 Siempre estoy preparado para enfrentar nuevos retos y seguir aprendiendo en este apasionante campo.
 
 💼 En mi trayectoria profesional, he participado en proyectos desafiantes que me han permitido aplicar mis habilidades y contribuir al éxito del equipo.
