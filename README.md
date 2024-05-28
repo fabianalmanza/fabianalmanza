@@ -1,9 +1,10 @@
 ## Desarrollador Front-end
-💻 Desarrollador Front-End apasionado por el mundo del desarrollo de software y la creación de aplicaciones web. Siempre en busca de nuevos conocimientos y con capacidad para enfrentar desafíos.
-
-📚 Durante mis estudios en Ingeniería de Petróleos, descubrí una pasión por el desarrollo de software y la creación de aplicaciones web. Esto me llevó a convertirme en una persona autodidacta y de rápido aprendizaje en el campo del desarrollo Frontend.
-
-🎓 Recientemente, completé una beca en desarrollo Frontend con Alura en asociación con Oracle, adquiriendo conocimientos sólidos en las siguientes tecnologías:
+Soy estudiante de programación de aplicaciones y servicios para la nube en el SENA, y me desempeño
+como desarrollador de software. Apasionado por la tecnología, complemento mis estudios de manera
+autodidacta y nunca dejo de aprender. Me considero altamente organizado y capaz de adaptarme a diversas
+situaciones. Valoro enormemente las habilidades interpersonales y el trabajo en equipo,
+fundamentales para alcanzar los objetivos en cualquier proyecto. 
+conocimientos sólidos en las siguientes tecnologías:
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,vscode,mongodb,netlify,git,markdown)](https://skillicons.dev)
 
