@@ -4,6 +4,7 @@ como desarrollador de software. Apasionado por la tecnología, complemento mis e
 autodidacta y nunca dejo de aprender. Me considero altamente organizado y capaz de adaptarme a diversas
 situaciones. Valoro enormemente las habilidades interpersonales y el trabajo en equipo,
 fundamentales para alcanzar los objetivos en cualquier proyecto. 
+<br/>
 conocimientos sólidos en las siguientes tecnologías:
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,vscode,mongodb,netlify,git,markdown)](https://skillicons.dev)
