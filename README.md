@@ -11,10 +11,6 @@ conocimientos sólidos en las siguientes tecnologías:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,vscode,mongodb,netlify,git,markdown)](https://skillicons.dev)
 
 
-Siempre estoy preparado para enfrentar nuevos retos y seguir aprendiendo en este apasionante campo.
-
-
-
 ## 📫 ¡Contáctame!
  📧 Correo electrónico: fabian.almanza741@gmail.com                                                                                                      
                                                                                           
