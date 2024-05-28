@@ -5,6 +5,7 @@ autodidacta y nunca dejo de aprender. Me considero altamente organizado y capaz 
 situaciones. Valoro enormemente las habilidades interpersonales y el trabajo en equipo,
 fundamentales para alcanzar los objetivos en cualquier proyecto. 
 <br/>
+<br/>
 conocimientos sólidos en las siguientes tecnologías:
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,vscode,mongodb,netlify,git,markdown)](https://skillicons.dev)
@@ -12,7 +13,7 @@ conocimientos sólidos en las siguientes tecnologías:
 
 Siempre estoy preparado para enfrentar nuevos retos y seguir aprendiendo en este apasionante campo.
 
-💼 En mi trayectoria profesional, he participado en proyectos desafiantes que me han permitido aplicar mis habilidades y contribuir al éxito del equipo.
+
 
 ## 📫 ¡Contáctame!
  📧 Correo electrónico: fabian.almanza741@gmail.com                                                                                                      
